@@ -1,0 +1,16 @@
+*.OBK
+*.OLBlck
+*.DBK
+*.DSNlck
+*.log*
+*.rpt*
+*.tag
+*.dml
+*.lck*
+*.brd,*
+*.dra,*
+*.txt,*
+*.dat,*
+*AUTOSAVE*
+*.jrl*
+*/signoise.run
