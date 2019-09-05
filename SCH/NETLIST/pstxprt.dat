@@ -1,0 +1,160 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Sep-05-2019 at 23:49:39 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SOPHUM_TOF';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR-NON-POL_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_TOF.SCHEMATIC1(SCH_1):INS729@SOPHUM_TOF.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@sophum_tof.schematic1(sch_1):ins729@sophum_tof.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@sophum_tof.schematic1(sch_1):page1_ins729@sophum_tof.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR-NON-POL_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_TOF.SCHEMATIC1(SCH_1):INS787@SOPHUM_TOF.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@sophum_tof.schematic1(sch_1):ins787@sophum_tof.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@sophum_tof.schematic1(sch_1):page1_ins787@sophum_tof.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR-NON-POL_C0402_100NF':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_TOF.SCHEMATIC1(SCH_1):INS951@SOPHUM_TOF.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@sophum_tof.schematic1(sch_1):ins951@sophum_tof.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@sophum_tof.schematic1(sch_1):page1_ins951@sophum_tof.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPACITOR-NON-POL_C0402_4.7UF':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_TOF.SCHEMATIC1(SCH_1):INS977@SOPHUM_TOF.CAPACITOR-NON-POL.NORMAL(CHIPS)':
+ C_PATH='@sophum_tof.schematic1(sch_1):ins977@sophum_tof.\capacitor-non-pol.normal\(chips)',
+ P_PATH='@sophum_tof.schematic1(sch_1):page1_ins977@sophum_tof.\capacitor-non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER-6X1_HDR6X1-2R00-TM-VM_HE':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_TOF.SCHEMATIC1(SCH_1):INS1481@SOPHUM_TOF.HEADER-6X1.NORMAL(CHIPS)':
+ C_PATH='@sophum_tof.schematic1(sch_1):ins1481@sophum_tof.\header-6x1.normal\(chips)',
+ P_PATH='@sophum_tof.schematic1(sch_1):page1_ins1481@sophum_tof.\header-6x1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_C0402_120R':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_TOF.SCHEMATIC1(SCH_1):INS326@SOPHUM_TOF.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sophum_tof.schematic1(sch_1):ins326@sophum_tof.\resistor.normal\(chips)',
+ P_PATH='@sophum_tof.schematic1(sch_1):page1_ins326@sophum_tof.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_C0402_120R':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_TOF.SCHEMATIC1(SCH_1):INS372@SOPHUM_TOF.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sophum_tof.schematic1(sch_1):ins372@sophum_tof.\resistor.normal\(chips)',
+ P_PATH='@sophum_tof.schematic1(sch_1):page1_ins372@sophum_tof.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_C0402_120R':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_TOF.SCHEMATIC1(SCH_1):INS398@SOPHUM_TOF.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sophum_tof.schematic1(sch_1):ins398@sophum_tof.\resistor.normal\(chips)',
+ P_PATH='@sophum_tof.schematic1(sch_1):page1_ins398@sophum_tof.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_C0402_120R':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_TOF.SCHEMATIC1(SCH_1):INS424@SOPHUM_TOF.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sophum_tof.schematic1(sch_1):ins424@sophum_tof.\resistor.normal\(chips)',
+ P_PATH='@sophum_tof.schematic1(sch_1):page1_ins424@sophum_tof.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_TOF.SCHEMATIC1(SCH_1):INS507@SOPHUM_TOF.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sophum_tof.schematic1(sch_1):ins507@sophum_tof.\resistor.normal\(chips)',
+ P_PATH='@sophum_tof.schematic1(sch_1):page1_ins507@sophum_tof.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_TOF.SCHEMATIC1(SCH_1):INS533@SOPHUM_TOF.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sophum_tof.schematic1(sch_1):ins533@sophum_tof.\resistor.normal\(chips)',
+ P_PATH='@sophum_tof.schematic1(sch_1):page1_ins533@sophum_tof.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_TOF.SCHEMATIC1(SCH_1):INS559@SOPHUM_TOF.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sophum_tof.schematic1(sch_1):ins559@sophum_tof.\resistor.normal\(chips)',
+ P_PATH='@sophum_tof.schematic1(sch_1):page1_ins559@sophum_tof.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_TOF.SCHEMATIC1(SCH_1):INS585@SOPHUM_TOF.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@sophum_tof.schematic1(sch_1):ins585@sophum_tof.\resistor.normal\(chips)',
+ P_PATH='@sophum_tof.schematic1(sch_1):page1_ins585@sophum_tof.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'VL53L0-1X_LGA12_VL53L0-1X':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_TOF.SCHEMATIC1(SCH_1):INS232@SOPHUM_TOF.VL53L0-1X.NORMAL(CHIPS)':
+ C_PATH='@sophum_tof.schematic1(sch_1):ins232@sophum_tof.\vl53l0-1x.normal\(chips)',
+ P_PATH='@sophum_tof.schematic1(sch_1):page1_ins232@sophum_tof.\vl53l0-1x.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'XC6206P282MR_SOT-23_XC6206P282M':;
+
+SECTION_NUMBER 1
+ '@SOPHUM_TOF.SCHEMATIC1(SCH_1):INS293@SOPHUM_TOF.XC6206P282MR.NORMAL(CHIPS)':
+ C_PATH='@sophum_tof.schematic1(sch_1):ins293@sophum_tof.\xc6206p282mr.normal\(chips)',
+ P_PATH='@sophum_tof.schematic1(sch_1):page1_ins293@sophum_tof.\xc6206p282mr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
