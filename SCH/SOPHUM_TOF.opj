@@ -1,0 +1,76 @@
+(ExpressProject "SOPHUM_TOF"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "..\lib\sch_lib\sophum_tof.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\sophum_tof.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    ("HEADER 6"
+      (FullPartName "HEADER 6.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CAPACITOR-NON-POL
+      (FullPartName "CAPACITOR-NON-POL.Normal")
+      (LibraryName
+         "C:\USERS\ABCD\DOCUMENTS\GITHUB\SOPHUM_TOF\LIB\SCH_LIB\SOPHUM_TOF.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName
+         "E:\CADENCE\CADENCE_SPB_16.6-2015\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName
+         "C:\USERS\ABCD\DOCUMENTS\GITHUB\SOPHUM_TOF\LIB\SCH_LIB\SOPHUM_TOF.OLB")
+      (DeviceIndex "0"))
+    (XC6206P282MR
+      (FullPartName "XC6206P282MR.Normal")
+      (LibraryName
+         "C:\USERS\ABCD\DOCUMENTS\GITHUB\SOPHUM_TOF\LIB\SCH_LIB\SOPHUM_TOF.OLB")
+      (DeviceIndex "0"))
+    (VL53L0-1X
+      (FullPartName "VL53L0-1X.Normal")
+      (LibraryName
+         "C:\USERS\ABCD\DOCUMENTS\GITHUB\SOPHUM_TOF\LIB\SCH_LIB\SOPHUM_TOF.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\users\abcd\documents\github\sophum_tof\SCH\sophum_tof.dsn")
+      (Path "Design Resources"
+         "C:\users\abcd\documents\github\sophum_tof\SCH\sophum_tof.dsn"
+         "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" "..\lib\sch_lib\sophum_tof.olb")
+      (Select "Design Resources" "Library" "..\lib\sch_lib\sophum_tof.olb"
+         "CAPACITOR-NON-POL"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 223"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 26 1182 26 288")
+        (Scroll "17 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\ABCD\DOCUMENTS\GITHUB\SOPHUM_TOF\SCH\SOPHUM_TOF.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
