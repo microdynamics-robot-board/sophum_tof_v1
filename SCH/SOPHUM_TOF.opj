@@ -45,8 +45,37 @@
     (DRC_Visible_Power_pins "TRUE")
     (DRC_Report_Unused_Part_Packages "TRUE")
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
-    (DRC_Run_Physical_Custom_DRC "FALSE"))
-  (Folder "Outputs")
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory"
+       "C:\USERS\ABCD\DOCUMENTS\GITHUB\SOPHUM_TOF\SCH\NETLIST")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\SOPHUM_TOF.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\sophum_tof.drc"
+      (Type "Report"))
+    (File ".\netlist\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\netlist\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\netlist\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     ("HEADER 6"
@@ -90,22 +119,24 @@
       (Path "Design Resources" "Library")
       (Path "Design Resources" "Library"
          "C:\users\abcd\documents\github\sophum_tof\lib\sch_lib\sophum_tof.olb")
+      (Path "Outputs")
       (Select "Design Resources"
          "C:\users\abcd\documents\github\sophum_tof\SCH\sophum_tof.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 223"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 223"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1182 26 288")
-        (Scroll "278 34")
-        (Zoom "200")
+        (Placement "44 2 3 -1 -1 -8 -31 26 1182 26 288")
+        (Scroll "194 4")
+        (Zoom "100")
         (Occurrence "/"))
       (Path "C:\USERS\ABCD\DOCUMENTS\GITHUB\SOPHUM_TOF\SCH\SOPHUM_TOF.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1")))
-  (MPSSessionName "abcd"))
+  (MPSSessionName "abcd")
+  (ISPCBBASICLICENSE "false"))
